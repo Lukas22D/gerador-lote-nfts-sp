@@ -1,0 +1,422 @@
+[
+  {
+    "classificacao": "1.01",
+    "cnae": "2660",
+    "descricao": "Análise e desenvolvimento de sistemas",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.02",
+    "cnae": "2668",
+    "descricao": "Programação",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.03",
+    "cnae": "2684",
+    "descricao": "Processamento de dados e congêneres",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.04",
+    "cnae": "2692",
+    "descricao": "Elaboração de programas de computadores (software), inclusive de jogos eletrônicos",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.05",
+    "cnae": "2800",
+    "descricao": "Licenciamento ou cessão de direito de uso de programas de computação, inclusive distribuição",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.06",
+    "cnae": "2881",
+    "descricao": "Assessoria e consultoria em informática",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.07",
+    "cnae": "2919",
+    "descricao": "Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.08",
+    "cnae": "2935",
+    "descricao": "Planejamento, confecção, manutenção e atualização de páginas eletrônicas",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.09",
+    "cnae": "2962",
+    "descricao": "Disponibilização, sem cessão definitiva, de conteúdos de áudio por meio da internet (exceto a distribuição de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, de que trata a Lei Federal nº 12.485, de 12 de setembro de 2011, sujeita ao ICMS)",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "1.09",
+    "cnae": "2961",
+    "descricao": "Disponibilização, sem cessão definitiva, de conteúdos de imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e periódicos (exceto a distribuição de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, de que trata a Lei Federal nº 12.485, de 12 de setembro de 2011, sujeita ao ICMS)",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
+  },
+  {
+    "classificacao": "2.01",
+    "cnae": "3085",
+    "descricao": "Serviços de pesquisas e desenvolvimento de qualquer natureza",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "3.02",
+    "cnae": "7765",
+    "descricao": "Cessão de direito de uso de marcas e de sinais de propaganda",
+    "aliquota": "5,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "3.03",
+    "cnae": "7773",
+    "descricao": "Exploração de salões de festas, centro de convenções, escritórios virtuais, stands, quadras esportivas, estádios, ginásios, auditórios, casas de espetáculos, parques de diversões, canchas e congêneres, para realização de eventos ou negócios de qualquer natureza",
+    "aliquota": "5,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "3.04",
+    "cnae": "7790",
+    "descricao": "Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza",
+    "aliquota": "5,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "3.05",
+    "cnae": "7803",
+    "descricao": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário",
+    "aliquota": "5,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.01",
+    "cnae": "4030",
+    "descricao": "Medicina e biomedicina",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.01",
+    "cnae": "4111",
+    "descricao": "Medicina e biomedicina (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.02",
+    "cnae": "4138",
+    "descricao": "Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.02",
+    "cnae": "4154",
+    "descricao": "Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.02",
+    "cnae": "5576",
+    "descricao": "Patologia e eletricidade médica",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.03",
+    "cnae": "4170",
+    "descricao": "Laboratórios",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.03",
+    "cnae": "4189",
+    "descricao": "Hospitais",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.03",
+    "cnae": "4197",
+    "descricao": "Clínicas e sanatórios",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.03",
+    "cnae": "4219",
+    "descricao": "Ambulatórios e prontos socorros",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.03",
+    "cnae": "4235",
+    "descricao": "Casas de saúde, manicômios e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.04",
+    "cnae": "4251",
+    "descricao": "Instrumentação cirúrgica",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.05",
+    "cnae": "4260",
+    "descricao": "Acupuntura",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.06",
+    "cnae": "4316",
+    "descricao": "Enfermagem, inclusive serviços auxiliares",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.06",
+    "cnae": "4359",
+    "descricao": "Enfermagem, inclusive serviços auxiliares (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.07",
+    "cnae": "4383",
+    "descricao": "Serviços farmacêuticos",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "4391",
+    "descricao": "Fisioterapia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "4430",
+    "descricao": "Fisioterapia (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "4472",
+    "descricao": "Fonoaudiologia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "4502",
+    "descricao": "Fonoaudiologia (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "",
+    "descricao": "Terapia ocupacional",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.08",
+    "cnae": "4553",
+    "descricao": "Terapia ocupacional (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.09",
+    "cnae": "4588",
+    "descricao": "Terapias de qualquer espécie destinadas ao tratamento físico, orgânico e mental, inclusive massoterapia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.10",
+    "cnae": "4626",
+    "descricao": "Nutrição",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.11",
+    "cnae": "4634",
+    "descricao": "Obstetrícia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.11",
+    "cnae": "4677",
+    "descricao": "Obstetrícia (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.12",
+    "cnae": "4693",
+    "descricao": "Odontologia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.12",
+    "cnae": "4731",
+    "descricao": "Odontologia (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.13",
+    "cnae": "4774",
+    "descricao": "Ortóptica",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.13",
+    "cnae": "4901",
+    "descricao": "Ortóptica (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.14",
+    "cnae": "5037",
+    "descricao": "Próteses sob encomenda",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.14",
+    "cnae": "5096",
+    "descricao": "Próteses sob encomenda (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.15",
+    "cnae": "5100",
+    "descricao": "Psicanálise",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.16",
+    "cnae": "5118",
+    "descricao": "Psicologia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.16",
+    "cnae": "5142",
+    "descricao": "Psicologia, clínica ou não (regime especial – sociedade)",
+    "aliquota": "SUP",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011 – NOTA 5"
+  },
+  {
+    "classificacao": "4.17",
+    "cnae": "5150",
+    "descricao": "Casas de repouso, de recuperação e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.17",
+    "cnae": "5177",
+    "descricao": "Creches",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.17",
+    "cnae": "5185",
+    "descricao": "Asilos",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.17",
+    "cnae": "5584",
+    "descricao": "Casas de recuperação",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.18",
+    "cnae": "5193",
+    "descricao": "Inseminação artificial, fertilização in vitro e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.19",
+    "cnae": "5223",
+    "descricao": "Bancos de sangue, leite, pele, olhos, óvulos, sêmen e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.20",
+    "cnae": "5231",
+    "descricao": "Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.21",
+    "cnae": "5266",
+    "descricao": "Unidade de atendimento, assistência ou tratamento móvel e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.22",
+    "cnae": "5274",
+    "descricao": "Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "4.23",
+    "cnae": "5312",
+    "descricao": "Outros planos de saúde que se cumpram através de serviços de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indicação do beneficiário",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "5.01",
+    "cnae": "5380",
+    "descricao": "Medicina veterinária e zootecnia",
+    "aliquota": "2,00%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  }
+]
