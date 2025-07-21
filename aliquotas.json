@@ -418,5 +418,12 @@
     "descricao": "Medicina veterinária e zootecnia",
     "aliquota": "2,00%",
     "norma": "ANEXO 1 IN SF/SUREM Nº 8/2011"
+  },
+  {
+    "classificacao": "11.02",
+    "cnae": "7870",
+    "descricao": "Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados",
+    "aliquota": "2,90%",
+    "norma": "ANEXO 1 IN SF/SUREM Nº 23/2017"
   }
 ]
